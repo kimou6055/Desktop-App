@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>charte_graphique/Blanc et Bleu Simple Ordinateur Logo (2).png</file>
+        <file>charte_graphique/icon.gif</file>
+        <file>charte_graphique/istockphoto-1135609588-170667a-gigapixel22.png</file>
+    </qresource>
+</RCC>
